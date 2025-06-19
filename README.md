@@ -1,0 +1,2 @@
+# LogiTalk
+castomtkinter + soked
