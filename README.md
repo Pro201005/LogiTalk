@@ -1,2 +1,2 @@
 # LogiTalk
-castomtkinter + soked
+customtkinter + soked
